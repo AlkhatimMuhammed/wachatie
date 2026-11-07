@@ -2,6 +2,15 @@
 
 Send images, video and audio between two WhatsApp accounts as a series of text messages. The receiver reassembles the chunks, verifies them, saves the file locally, and both sides then remove the transfer messages from their own chats. Nothing is deleted for the other person, so no "this message was deleted" placeholders are left behind.
 
+## Screenshots
+
+<p align="center"><img src="docs/images/overview.png" alt="Wachatie overview" width="100%"></p>
+
+<p align="center">
+  <img src="docs/images/transfer.png" alt="Transfer progress" width="49%">
+  <img src="docs/images/received.png" alt="Received files" width="49%">
+</p>
+
 ## Requirements
 
 - Node.js 20 or newer
